@@ -15,7 +15,7 @@ Contributing to the documentation requires a GitHub account. If you don't have a
 follow the instructions for our contributor guide {CONTRIBUTING.md} 
 
 # Code of Conduct
-This project has adopted the Code of Conduct please read it {
+This project has adopted the Code of Conduct please read it {CODE_OF_CONDUCT.md}
 
 
 
