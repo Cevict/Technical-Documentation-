@@ -12,7 +12,7 @@ If you have decided to contribute in tis project. That is wonderful! To contribu
 *GitHub
 Contributing to the documentation requires a GitHub account. If you don't have an account, follow the instructions for {https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account}
 *Follow
-follow the instructions for our contributor guide {
+follow the instructions for our contributor guide {docs/CONTRIBUTING.md} 
 
 
 
