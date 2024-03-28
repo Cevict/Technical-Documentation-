@@ -1,4 +1,4 @@
-# Technical-Documentation-
+# Technical-Documentation
 
 Writing Technical Documentation 
 
